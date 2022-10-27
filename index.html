@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name = "viewport" content="width=device_width, iniial-scale=1.0">
+	<title>Travel Around The World</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+	<section class="header">
+		<nav>
+			<a href="index.html"><img src="images/logo.jpeg"></a>
+			<div class="nav-links" id="navLinks">
+				<i class="fa fa-close" onclick="hide_menu()"></i>
+				<ul>
+					<li><a href="">HOME</a></li>
+					<li><a href="">ABOUT ME</a></li>
+					<li><a href="">DESTINATIONS</a></li>
+					<li><a href="">TRAVEL TIPS</a></li>
+					<li><a href="">CONTACT</a></li>
+				</ul>
+			</div>
+			<i class="fa fa-bars" onclick="show_menu()"></i>
+		</nav>
+
+	<div class="text-box">
+		<h1>Let's travel around the World</h1>
+		<p>Hey guys, I'm Ashini and I'm here to take you on a beautiful trip around the world.<br>
+			You just need to be as excited as I am for us to start our journey.
+		</p>
+		<a href="" class="hero-btn">Visit Us To Know More</a>
+	</div>
+	</section>
+
+	<!---------- Destinations ---------->
+	<section class="places">
+		<h1>My Previous Visits</h1>
+		<p> I have shared few of my visits which were close to my heart that gave me an unforgettable memory. </p>
+	
+		<div class="visits"> <!---- Rows ----->
+			<div class="Cities">
+				<h3>Boston</h3>
+				<a href=Boston.html><img src="images/boston/boston_bg.jpeg" width="100%" height="200px"></a>
+				<p>
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+					Tenetur ex, earum repudiandae eaque dicta nam? 
+					Similique consectetur illo ipsum necessitatibus aspernatur iste. 
+					Quas ipsum, nisi adipisci facilis voluptate quis? Culpa?
+				</p>
+			</div>
+			<div class="Cities">
+				<h3>California</h3>
+				<a href=California.html><img src="images/ca_bg.png"  width="100%" height="200px"></a>
+				<p>
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+					Tenetur ex, earum repudiandae eaque dicta nam? 
+					Similique consectetur illo ipsum necessitatibus aspernatur iste. 
+					Quas ipsum, nisi adipisci facilis voluptate quis? Culpa?
+				</p>
+			</div>
+			<div class="Cities">
+				<h3>Rochester</h3>
+				<a href=Rochester.html><img src="images/roc_bg.jpeg"  width="100%" height="200px"></a>
+				<p>
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+					Tenetur ex, earum repudiandae eaque dicta nam? 
+					Similique consectetur illo ipsum necessitatibus aspernatur iste. 
+					Quas ipsum, nisi adipisci facilis voluptate quis? Culpa?
+				</p>
+			</div>
+		</div>
+	</section>
+
+	<!------ Travel Guide ---------->
+	<section class="Guide">
+		<h1>Travel Tips</h1>
+		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br>
+			Tenetur ex, earum repudiandae eaque dicta nam?
+		</p>
+		<div class="slider">
+			<span style="--i:1"><img src="Images/family.png" width="50%" height="150px"></span>
+			<span style="--i:2"><img src="Images/couples.jpeg" width="50%" height="150px"></span>
+			<span style="--i:3"><img src="Images/family1.jpeg" width="50%" height="150px"></span>
+			<span style="--i:4"><img src="Images/couples1.jpeg" width="50%" height="150px"></span>
+			<span style="--i:5"><img src="Images/family2.jpeg" width="50%" height="150px"></span>
+			<span style="--i:6"><img src="Images/couples2.jpeg" width="50%" height="150px"></span>
+		</div>
+		<div class="Tips">
+			<div class="Trip">
+				<h2>Couple's Trip</h2>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+					Tenetur ex, earum repudiandae eaque dicta nam? 
+					Similique consectetur illo ipsum necessitatibus aspernatur iste. 
+					Quas ipsum, nisi adipisci facilis voluptate quis? Culpa?</p>
+				<a href="" class="box_click">Couple Goals</a>
+			</div>
+			<div class="Trip">
+				<h2>Family Trip</h2>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+					Tenetur ex, earum repudiandae eaque dicta nam? 
+					Similique consectetur illo ipsum necessitatibus aspernatur iste. 
+					Quas ipsum, nisi adipisci facilis voluptate quis? Culpa?</p>
+				<a href="" class="box_click">Family Reunion</a>
+			</div>
+		</div>
+
+	</section>
+
+
+	<!------ Contact ---------->
+
+	<section class="cntct">
+		<h1>Contact Us To Start Your Wonderful Journey</h1>
+		<a href="" class="hero-btn">CONTACT US</a>
+	</section>
+
+
+	<!------ Footer ---------->
+
+	<section class="footer">
+		<h2>About Us</h2>
+		<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+			Eos vitae voluptate ea voluptates labore quidem odio quo harum minus explicabo. 
+			Officia nisi veritatis pariatur itaque assumenda, consequuntur mollitia sint nihil!</p>
+	</section>
+
+	<!------ JavaScript for Toggle Menu ---------->
+	<script>
+		var navLinks = document.getElementById("navLinks");
+		function show_menu(){
+			navLinks.style.right = "0"
+		}
+
+		function hide_menu(){
+			navLinks.style.right = "-200px"
+		}
+	</script>
+
+</body>
+</html>
