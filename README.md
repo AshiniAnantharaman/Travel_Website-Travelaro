@@ -18,7 +18,7 @@ The below images shows the display in a desktop or a lapton screen size
 The below images shows the display in a mobile phone screen size
 <p float="left">
      <img src="https://github.com/AshiniAnantharaman/Travel_Website-Travellaro/blob/main/Git_images/mobile-pic1.png" width = "450px"/>
-     <img src="https://github.com/AshiniAnantharaman/Travel_Website-Travellaro/blob/main/Git_images/mobile-pic2.png" width = "450px align="right"/>
+     <img src="https://github.com/AshiniAnantharaman/Travel_Website-Travellaro/blob/main/Git_images/mobile-pic2.png" width = "450px" align="right"/>
 </p>
 
 The below video shows this function.
