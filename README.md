@@ -67,7 +67,13 @@ This is a feature used to attract the travellers to the location by showing its 
 
 https://user-images.githubusercontent.com/89472797/200098867-7a08def3-10e4-4cfa-a205-c6f8accf6412.mov
 
-##### 3.4 On-Click links
+##### 3.4 Autoplay background video
+
+This is similar to auto-change background using images but in this case a video has been used. This video is played automatically without any trigger needed for the start. Once the video ends, it will again start from the beginning and keeps playing in a loop. This is used in the background for the couples trip page, rochetser page, family page and contact us form. Below video shows the background video feature used in this website.
+
+https://user-images.githubusercontent.com/89472797/200099475-dce37e9c-3210-45f9-9eeb-ed9dd7292465.mov
+
+##### 3.5 On-Click links
 
 This is used to click on a particular text box or image to navigate to a different section. This also will basically be used in different scenarios to navigate. In this website in used in so many scenarios which are listed below.
 * Clicking on the logo/Back to Travelaro will re-direct to home page
@@ -75,5 +81,3 @@ This is used to click on a particular text box or image to navigate to a differe
 * Clicking on the options like contact us, about me and Home will take to that specific page or section.
 * Used in Couple's Trip page to navigate to the corresponding section in Date Ideas
 * Contact Us box on the bottom section of the page takes you to a separate contact form.
-
-     
