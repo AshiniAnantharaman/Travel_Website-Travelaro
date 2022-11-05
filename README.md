@@ -10,15 +10,15 @@ The website is created in such a way that it is adaptable to the screen size.
 #### DESKTOP
 The below images shows the display in a desktop or a lapton screen size
 <p float="left">
-     <img src="https://github.com/AshiniAnantharaman/Travel_Website-Travellaro/blob/main/Git_images/Desktop-pic1.png" width = "450px"/>
-     <img src="https://github.com/AshiniAnantharaman/Travel_Website-Travellaro/blob/main/Git_images/desktop-pic2.png" width = "450px" align="right"/>
+     <img src="https://github.com/AshiniAnantharaman/Travel_Website-Travellaro/blob/main/Git_images/Desktop-pic1.png" width = "400px"/>
+     <img src="https://github.com/AshiniAnantharaman/Travel_Website-Travellaro/blob/main/Git_images/desktop-pic2.png" width = "400px" align="right"/>
 </p>
 
 #### MOBILE
 The below images shows the display in a mobile phone screen size
 <p float="left">
-     <img src="https://github.com/AshiniAnantharaman/Travel_Website-Travellaro/blob/main/Git_images/mobile-pic1.png" width = "450px"/>
-     <img src="https://github.com/AshiniAnantharaman/Travel_Website-Travellaro/blob/main/Git_images/mobile-pic2.png" width = "450px" align="right"/>
+     <img src="https://github.com/AshiniAnantharaman/Travel_Website-Travellaro/blob/main/Git_images/mobile-pic1.png" width = "400px"/>
+     <img src="https://github.com/AshiniAnantharaman/Travel_Website-Travellaro/blob/main/Git_images/mobile-pic2.png" width = "400px" align="right"/>
 </p>
 
 The below video shows this function.
