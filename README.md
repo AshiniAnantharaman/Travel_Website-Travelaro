@@ -22,3 +22,7 @@ The below images shows the display in a mobile phone screen size
 </p>
 
 The below video shows this function.
+
+
+https://user-images.githubusercontent.com/89472797/200095195-8f149991-80e0-4d8b-95e0-53ed0f14e2be.mp4
+
