@@ -83,3 +83,10 @@ This is used to click on a particular text box or image to navigate to a differe
 * Clicking on the options like contact us, about me and Home will take to that specific page or section.
 * Used in Couple's Trip page to navigate to the corresponding section in Date Ideas
 * Contact Us box on the bottom section of the page takes you to a separate contact form.
+
+#### 4. Contact Form
+This form is used to connect with the website owner by sending them their email and message body. Once these details are updated, send button click will send the contact details of the person to the mentioned email so that they can reach out or reply to their email.
+
+<p align="center">
+     <img src="https://github.com/AshiniAnantharaman/Travel_Website-Travellaro/blob/main/Git_images/Contact_Form.png" width = "400px"/>
+</p>
