@@ -61,3 +61,8 @@ The Rotating Gallery feature works in such a way that when hovered over the imag
 
 https://user-images.githubusercontent.com/89472797/200098240-2e07d79d-1937-4ebd-abee-05f9b05f4947.mp4
 
+##### 3.3 Auto-Change Background
+
+This is a feature used to attract the travellers to the location by showing its beauty in the main background of the page. In this website, the background of California page is set in such a way that it keeps changing the images at a frequency of 5 secs automatically. The same has been done in boston page as well. Below video shows the example of california in this webpage.
+
+https://user-images.githubusercontent.com/89472797/200098867-7a08def3-10e4-4cfa-a205-c6f8accf6412.mov
