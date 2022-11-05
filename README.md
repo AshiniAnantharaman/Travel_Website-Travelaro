@@ -3,6 +3,8 @@ This project consists of a fully responsive multi-page website's front-end desig
 
 Below is the video of the complete website's functionality
 
+https://user-images.githubusercontent.com/89472797/200097117-9689fae4-185b-47dd-b496-56c71b3f28fa.mp4
+
 ### 1. Display Adaptability
 
 The website is created in such a way that it is adaptable to the screen size.
