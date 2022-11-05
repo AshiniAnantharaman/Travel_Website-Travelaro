@@ -55,6 +55,8 @@ The flip image feature works in such a way that when hovered over the image, it 
      <img src="https://github.com/AshiniAnantharaman/Travel_Website-Travellaro/blob/main/Git_images/winter_back.png" width = "400px" align="right"/>
 </p>
 
+https://user-images.githubusercontent.com/89472797/200099667-e0af9ce2-7774-4567-9704-259b90d1391d.mp4
+
 ##### 3.2 Rotating Gallery
 
 The Rotating Gallery feature works in such a way that when hovered over the image, it will move up to a certain distance. This can be used to display differnt ideas, locations, functionalities, etc. In this website it is used to highlight the images of family trips and couples' trip. The below video shows the gallery used in this website.
