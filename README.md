@@ -70,10 +70,10 @@ https://user-images.githubusercontent.com/89472797/200098867-7a08def3-10e4-4cfa-
 ##### 3.4 On-Click links
 
 This is used to click on a particular text box or image to navigate to a different section. This also will basically be used in different scenarios to navigate. In this website in used in so many scenarios which are listed below.
-     * Clicking on the logo/Back to Travelaro will re-direct to home page
-     * Click on the images of CA, Boston or Rochester takes you to their corresponding pages.
-     * Clicking on the options like contact us, about me and Home will take to that specific page or section.
-     * Used in Couple's Trip page to navigate to the corresponding section in Date Ideas
-     * Contact Us box on the bottom section of the page takes you to a separate contact form.
-     
+* Clicking on the logo/Back to Travelaro will re-direct to home page
+* Click on the images of CA, Boston or Rochester takes you to their corresponding pages.
+* Clicking on the options like contact us, about me and Home will take to that specific page or section.
+* Used in Couple's Trip page to navigate to the corresponding section in Date Ideas
+* Contact Us box on the bottom section of the page takes you to a separate contact form.
+
      
