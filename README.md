@@ -66,3 +66,14 @@ https://user-images.githubusercontent.com/89472797/200098240-2e07d79d-1937-4ebd-
 This is a feature used to attract the travellers to the location by showing its beauty in the main background of the page. In this website, the background of California page is set in such a way that it keeps changing the images at a frequency of 5 secs automatically. The same has been done in boston page as well. Below video shows the example of california in this webpage.
 
 https://user-images.githubusercontent.com/89472797/200098867-7a08def3-10e4-4cfa-a205-c6f8accf6412.mov
+
+##### 3.4 On-Click links
+
+This is used to click on a particular text box or image to navigate to a different section. This also will basically be used in different scenarios to navigate. In this website in used in so many scenarios which are listed below.
+     * Clicking on the logo/Back to Travelaro will re-direct to home page
+     * Click on the images of CA, Boston or Rochester takes you to their corresponding pages.
+     * Clicking on the options like contact us, about me and Home will take to that specific page or section.
+     * Used in Couple's Trip page to navigate to the corresponding section in Date Ideas
+     * Contact Us box on the bottom section of the page takes you to a separate contact form.
+     
+     
