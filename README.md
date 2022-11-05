@@ -23,6 +23,21 @@ The below images shows the display in a mobile phone screen size
 
 The below video shows this function.
 
-
 https://user-images.githubusercontent.com/89472797/200095195-8f149991-80e0-4d8b-95e0-53ed0f14e2be.mp4
 
+#### 2. Multi-page response
+
+There are 6 different pages connected to this main website. They are as follows.
+* Boston 
+* California 
+* Rochester 
+* Couples_trip 
+* Family trip
+* Contact Form
+
+Images of 2 pages have been shown below.
+
+<p float="left">
+     <img src="https://github.com/AshiniAnantharaman/Travel_Website-Travellaro/blob/main/Git_images/California.png" width = "400px"/>
+     <img src="https://github.com/AshiniAnantharaman/Travel_Website-Travellaro/blob/main/Git_images/FamilyTrip.png" width = "400px" align="right"/>
+</p>
